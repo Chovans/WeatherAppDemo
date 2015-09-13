@@ -1,4 +1,4 @@
-# WeatherAppDemo
+# WeatherAppDemo（废弃）
 
 ###To do
 >1.修复获取不到天气情况时表现正常<br />
